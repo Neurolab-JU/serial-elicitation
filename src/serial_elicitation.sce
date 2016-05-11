@@ -890,7 +890,7 @@ trial {
 begin_pcl;
 
 # Declare pause
-int nPAUSE = 25;
+int nPAUSE = 50;
 int trialCounter = 1;
 
 #===========================================#
