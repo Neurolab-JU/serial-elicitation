@@ -1,0 +1,21 @@
+Scenario - 
+Logfile written - 04/20/2016 14:47:28
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Response	0	19337	19187	1
+test	4	Picture	+	59665	0	1	68165	1	0	next	other	0
+test	5	Sound	hi246a	59666	0	1			0		other	0
+test	6	Picture	500+	127830	0	1	5167	1	0	5000	other	0
+test	7	Picture	low_F099	132996	0	1	30166	1	0	30000	other	0
+test	8	Picture	+	163329	0	1	65831	1	0	next	other	0
+test	9	Sound	hi246b	163329	0	1			0		other	0
+test	10	Picture	500+	229160	0	1	5167	1	0	5000	other	0
+test	11	Picture	hi_F274	234493	0	1	30166	1	0	30000	other	0
+test	12	Picture	+	264826	0	1	20166	1	0	32580	other	0
+test	13	Picture	hi_P017	284992	0	1	30166	1	0	30000	other	0
+test	14	Picture	+	315324	0	1	20166	1	0	32740	other	0
+test	15	Picture	low_A108	335490	0	1	30166	1	0	30000	other	0
+test	16	Picture	+	365823	0	1	49689	1	0	next	other	0
+test	17	Sound	low084a	385824	0	1			0		other	0
+test	17	Quit		404973	19149	NA
